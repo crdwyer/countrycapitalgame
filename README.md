@@ -1,2 +1,2 @@
-# guessthenumber
+# countrycapitalgame
 python game
